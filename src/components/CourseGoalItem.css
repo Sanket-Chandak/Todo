@@ -1,0 +1,19 @@
+.goal-item {
+    margin: 0rem -2;
+    background: rgb(192, 192, 224);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    color: black;
+    width: 18%;
+    padding: 0.7rem;
+    justify-content: space-around;
+    padding-top: 0.5rem;
+    margin-bottom: 0.3rem;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 38%;
+  }
+  .goal-item:hover,
+.goal-item:active {
+  background: rgb(127, 235, 127);
+  color: black;
+}
